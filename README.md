@@ -74,8 +74,6 @@ The AI detector will train on the data using different models, and provide you w
 ## Contributors
 The collaborators for this project are:
 1. **Swayam Shah**
-     - personal-email: [helloswayamshah@gmail.com](mailto:helloswayamshah@gmail.com)
-     - school-email: [sshah36@ucsc.edu](mailto:sshah36@ucsc.edu)
 2. **Atharva Tawde**
 3. **Jiancheng Xiong**
 4. **Karthik Chaparala**
