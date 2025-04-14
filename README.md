@@ -19,7 +19,7 @@ The AI Detector project aims to provide a robust system for identifying whether 
 1. Make sure your system has Python version 3.8 or later installed.
 2. Clone this directory using the code below.
      ```bash
-     git clone https://github.com/helloswayamshah/AI-Detector.git
+     git clone https://github.com/jxiong0822/AITextDetector.git
      ```
      **Note: Make sure git is installed on your computer**
 3. Create a Python virtual environment to install the required dependencies. Use the command below.
